@@ -1,7 +1,7 @@
-# Data Modeling using Postgres Database
+# Data Warehouse with Amazon Redshift
 
 ## **Overview**
-This project uses data modeling skills to build an ETL pipeline that extracts their data from S3, stages them in Redshift, and transforms data into a set of dimensional tables for an analytics team to continue finding insights in what songs their users are listening to.
+This project constructs a data warehouse using data modeling skills to build an ETL pipeline that extracts data from S3, stages it in Redshift, and transforms data into a set of dimensional tables for an analytics team to continue finding insights in what songs their users are listening to.
 
 ## **Song Dataset**
 The first dataset is a subset of real data from the [Million Song Dataset](http://millionsongdataset.com/). Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song's track ID.
