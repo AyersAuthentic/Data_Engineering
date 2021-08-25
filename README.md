@@ -16,3 +16,8 @@ Link: [Data_Modeling_with_Apache_Cassandra](https://github.com/AyersAuthentic/ud
 This project constructs a data warehouse using data modeling skills to build an ETL pipeline that extracts data from S3, stages it in Redshift, and transforms data into a set of dimensional tables for an analytics team to continue finding insights in what songs their users are listening to.
 
 Link: [Data_Warehouse_with_Amazon_Redshift](https://github.com/AyersAuthentic/udacity_data_engineering/tree/main/Data_Warehouse_with_AWS_Redshift)
+
+## Project 4: Data Lake with Spark on AWS
+This project uses big data skills with Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. Data is loaded from S3, then processesd into analytics tables using Spark, and loaded back into S3. The Spark process is deployed on a EC2 cluster using AWS.
+
+Link: [Data_Lake_with_Spark]()
