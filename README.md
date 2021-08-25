@@ -20,4 +20,4 @@ Link: [Data_Warehouse_with_Amazon_Redshift](https://github.com/AyersAuthentic/ud
 ## Project 4: Data Lake with Spark on AWS
 This project uses big data skills with Spark and data lakes to build an ETL pipeline for a data lake hosted on S3. Data is loaded from S3, then processesd into analytics tables using Spark, and loaded back into S3. The Spark process is deployed on a EC2 cluster using AWS.
 
-Link: [Data_Lake_with_Spark]()
+Link: [Data_Lake_with_Spark](https://github.com/AyersAuthentic/Udacity_Data_Engineering/tree/main/Data_Lake_with_Spark)
